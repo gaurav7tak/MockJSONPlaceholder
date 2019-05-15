@@ -1,5 +1,10 @@
 {
-  "flights" : [{"cost": 500},
-  {"cost": 200},
-  {"cost": 1500}]
+  "flights" : [
+    {"cost": 500},
+    {"cost": 200},
+    {"cost": 1500}
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
